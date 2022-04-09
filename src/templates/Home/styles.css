@@ -1,0 +1,17 @@
+.container {
+  min-height: 100vh;
+  background: #eee;
+  padding: 10px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.button-container{
+  margin: 20px auto;
+
+}
+
+.input-conteiner{
+  width: 100%;
+  margin-bottom: 30px;
+}
